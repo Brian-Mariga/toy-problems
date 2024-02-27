@@ -24,4 +24,3 @@ function solution(N) {
     return "Enter a positive number";
   }
 }
-solution(524);
